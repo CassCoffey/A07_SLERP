@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignments", "Assignments", "{124C8EDD-52BA-4EAA-A1F4-6D4302AB5DEC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A07_SLERP", "A07_SLERP\A07_SLERP.vcxproj", "{EF817BA9-17FE-44E0-B405-C5962E93B613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF817BA9-17FE-44E0-B405-C5962E93B613}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF817BA9-17FE-44E0-B405-C5962E93B613}.Debug|x86.Build.0 = Debug|Win32
+		{EF817BA9-17FE-44E0-B405-C5962E93B613}.Release|x86.ActiveCfg = Release|Win32
+		{EF817BA9-17FE-44E0-B405-C5962E93B613}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF817BA9-17FE-44E0-B405-C5962E93B613} = {124C8EDD-52BA-4EAA-A1F4-6D4302AB5DEC}
+	EndGlobalSection
+EndGlobal
